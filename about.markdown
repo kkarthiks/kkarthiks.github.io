@@ -4,7 +4,10 @@ title: ABOUT
 permalink: /about/
 ---
 
-![Gastrolabs](/images/logos/dark_logo_white_background.jpg){:class="img-responsive" width="60%" height="60%"}
+
+<div align="center">
+	<img class="img-responsive" width="60%" height="60%" alt-text="Gastrolabs" src="/images/logos/dark_logo_white_background.jpg"/>
+</div>
 
 Gastrolabs develops and operates delivery-only restaurants in Colombo. Our aim is to develop innovative brands that produce  and deliver consistent and tasty food across a myriad cuisines at reasonable prices. 
 
